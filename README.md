@@ -1,16 +1,42 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center" style="color:#f75c7e;">Hi, I'm Rafael Dias</h1>
+</p>
 
-<!--
-**raffadias/raffadias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20and%20app%20developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-Here are some ideas to get you started:
+<br/>
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&fontSize=15&showBorder=false&lineHeight=3&lineCount=3&theme=react&gap=4&line1=typescript,typescript,3178C6;javascript,javascript,F7DF1E;react,react,61DAFB;redux,redux,764ABC;&line2=react,react%20native,609bfb;html5,html5,E34F26;css3,css3,1572B6;tailwindcss,tailwindcss,06B6D4;&line3=styledcomponents,styled%20components,DB7093;axios,axios,5A29E4;vite,vite,646CFF;expo,expo,000020;" alt="My Tech Stack" width="600px"/>
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open> 
+  <summary><h2>📊 Github Stats</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="raffadias's streak" src="https://streak-stats.demolab.com?user=raffadias&theme=dracula&hide_border=true&border_radius=10&mode=weekly&card_width=800"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/raffadias/github-readme-stats"><img alt="raffadias's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=raffadias&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=79DAFA" height="192px" width="500em"/></a>
+  <a href="https://github.com/raffadias/github-readme-stats"><img alt="raffadias's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=raffadias&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=79DAFA&hide=Jupyter%20Notebook,Roff" height="192px" width="500em"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="raffadias's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=raffadias&bg_color=1F222E&color=79DAFA&line=F85D7F&point=FFFF&hide_border=true" /></a>
+
+</details>
