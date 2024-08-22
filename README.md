@@ -29,25 +29,14 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="raffadias's streak" src="https://streak-stats.demolab.com?user=raffadias&theme=dracula&hide_border=true&border_radius=10&mode=weekly&card_width=800"/>
     </a>
   </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/raffadias/github-readme-stats"><img alt="raffadias's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=raffadias&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=79DAFA" height="192px"/></a>
-  <a href="https://github.com/raffadias/github-readme-stats"><img alt="raffadias's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=raffadias&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=79DAFA&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/raffadias/github-readme-stats"><img alt="raffadias's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=raffadias&langs_count=8&layout=compact&card_width=800&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=79DAFA&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="raffadias's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=raffadias&bg_color=1F222E&color=79DAFA&line=F85D7F&point=FFFF&hide_border=true" /></a>
 
 </details>
